@@ -37,6 +37,9 @@ go get github.com/hajimehoshi/ebiten/v2
 5. **Run the game:**
    ```
 go run .
-   ```
+   
 
-Enjoy! # go_running_cat_game
+## Gameplay video
+
+https://github.com/user-attachments/assets/aa07a27e-69f0-4ad5-9a74-146beeaf7fcd
+
